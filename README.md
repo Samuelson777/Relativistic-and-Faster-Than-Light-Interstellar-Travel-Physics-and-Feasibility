@@ -2,8 +2,8 @@
 
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.27757.96481-blue)](https://doi.org/10.13140/RG.2.2.27757.96481)  
 [![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/20056787)  
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/165640547/Comprehensive_Analysis_of_Atmospheric_Pollution_Integrating_Fundamental_Chemistry_Epidemiological_Metrics_Sociological_Paradigms_and_Policy_Frameworks)  
-[![OSF](https://img.shields.io/badge/OSF-blue)](https://osf.io/preprints/thesiscommons/3k4vf_v1)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/166763159/The_Physics_Feasibility_and_Multi_Disciplinary_Implications_of_Relativistic_and_Superluminal_Interstellar_Travel)  
+[![OSF](https://img.shields.io/badge/OSF-blue)](https://osf.io/preprints/thesiscommons/z73eb_v1)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Samuelson777/Relativistic-and-Faster-Than-Light-Interstellar-Travel-Physics-and-Feasibility/blob/main/LICENSE)
@@ -22,7 +22,7 @@ This repository contains the core research, interactive data visualizations, and
 1. [Abstract](#-abstract)
 2. [Key Research Areas](#-key-research-areas)
 3. [Interactive Web Application](#-interactive-web-application)
-4. [Usage & Installation](#-usage--installation)
+4. [Usage](#-usage)
 5. [Conclusion](#-conclusion)
 6. [Citation](#-citation)
 7. [License](#-license)
