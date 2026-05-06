@@ -90,7 +90,7 @@ If you use this research or the accompanying interactive data in your work, plea
   author={Samuelson, G.},
   journal={GitHub Repository},
   year={2026},
-  url={[https://github.com/yourusername/relativistic-projection](https://github.com/Samuelson777/Relativistic-and-Faster-Than-Light-Interstellar-Travel-Physics-and-Feasibility)}
+  url={[https://github.com/Samuelson777/Relativistic-and-Faster-Than-Light-Interstellar-Travel-Physics-and-Feasibility](https://github.com/Samuelson777/Relativistic-and-Faster-Than-Light-Interstellar-Travel-Physics-and-Feasibility)}
 }
 
 ---
